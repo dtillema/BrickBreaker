@@ -1,0 +1,1 @@
+To run the game you will need the executable jar and the resource folder in the same folder.
